@@ -496,7 +496,6 @@ article.post {
 article .inside {
   margin: 18px 24px 24px;
   padding-top: 1em;
-  background: url("../img/dot-row-2.png") repeat-x scroll 0 0 transparent !important;
 }
 .post-date {
   color: #A5A5A2;
@@ -549,6 +548,10 @@ section#team .align, section#contact .align {
   margin-bottom: 0px;
 }
 #team h3, .job-position {
+  text-align: center;
+}
+.job-position1 {
+  font-size: 15px;
   text-align: center;
 }
 #team .featurette {
@@ -972,6 +975,9 @@ footer p {
   .job-position: {
     margin-bottom: 1.5em;
   }
+  .job-position1: {
+    margin-bottom: 1.5em;
+  }
   .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
     margin-left: auto;
     margin-right: auto;
@@ -1023,4 +1029,11 @@ footer p {
 /* Desktops and laptops ----------- */
 @media only screen and (min-width : 1224px) {
   /* Styles */
+}
+#selfmodifya tbody tr td a {
+  color: blue;
+}
+#selfmodifya tbody tr td a:hover {
+  color: green;
+  cursor: pointer;
 }
