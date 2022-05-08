@@ -1022,3 +1022,6 @@ footer p {
   color: green;
   cursor: pointer;
 }
+.myclass2{
+  margin-bottom: -50px;
+}
