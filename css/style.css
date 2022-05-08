@@ -276,9 +276,6 @@ ul#menu-main > li > a:hover {
 #headerwrap input[type=text]:focus {
   background: #43413e;
   color: #eff1ef;
-  transition: background 0.25 ease-in;
-  -moz-transition: background 0.25 ease-in;
-  -webkit-transition: background 0.25 ease-in;
 }
 #headerwrap input[type=text] {
   height: 2.9em;
@@ -590,9 +587,6 @@ section#team .align, section#contact .align {
   box-shadow: none;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
-  transition: background 0.25 ease-in;
-  -moz-transition: background 0.25 ease-in;
-  -webkit-transition: background 0.25 ease-in;
 }
 #theme-form input[type=text] {
   height: 3.25em;
@@ -653,7 +647,6 @@ hr.featurette-divider {
   margin: 3em 0;
   border-width: 0;
   height: 9px;
-  background: url("../img/dot-row-3-lt.png") repeat-x;
 }
 /* ---------------------------------------------------------------------------------------------------------- 
 06 Footer ------------------------------------------------------------
@@ -880,9 +873,7 @@ footer p {
     margin-top: 1em;
     width: 135px;
   }
-  .container {
-    1px solid yellow;
-  }
+
   #team .team-thumb {
     margin-right: auto;
     margin-left: auto;
@@ -971,12 +962,6 @@ footer p {
     width: 150px;
     display: block;
     text-align: center
-  }
-  .job-position: {
-    margin-bottom: 1.5em;
-  }
-  .job-position1: {
-    margin-bottom: 1.5em;
   }
   .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
     margin-left: auto;
