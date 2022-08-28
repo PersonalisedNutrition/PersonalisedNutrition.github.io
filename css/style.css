@@ -1025,3 +1025,58 @@ footer p {
 .myclass2{
   margin-bottom: -50px;
 }
+.hidetable{
+  display:none
+}
+.hidetable1{
+  display:none
+}
+.hidetable2{
+  display:none
+}
+.hidetable3{
+  display:none
+}
+.hidetable4{
+  display:none
+}
+
+#foldtable{
+  font-size:10px;
+  color: blue;
+}
+#foldtable:hover{
+  cursor: pointer;
+}
+#foldtable1{
+  font-size:10px;
+  color: blue;
+}
+#foldtable1:hover{
+  cursor: pointer;
+}
+#foldtable2{
+  font-size:10px;
+  color: blue;
+}
+#foldtable2:hover{
+  cursor: pointer;
+}
+#foldtable3{
+  font-size:10px;
+  color: blue;
+}
+#foldtable3:hover{
+  cursor: pointer;
+}
+#foldtable4{
+  font-size:10px;
+  color: blue;
+}
+#foldtable4:hover{
+  cursor: pointer;
+}
+.foldbtn{
+  width:100px;
+  margin-left:45.5%;
+}
