@@ -1016,7 +1016,7 @@ footer p {
   /* Styles */
 }
 #selfmodifya tbody tr td a {
-  color: blue;
+  color: cornflowerblue;
 }
 #selfmodifya tbody tr td a:hover {
   color: green;
@@ -1042,41 +1042,71 @@ footer p {
 }
 
 #foldtable{
-  font-size:10px;
-  color: blue;
+  font-size:16px;
+  margin-top: 10px;
+  color: cornflowerblue;
 }
 #foldtable:hover{
   cursor: pointer;
+  color: green;
 }
 #foldtable1{
-  font-size:10px;
-  color: blue;
+  font-size:16px;
+  margin-top: 10px;
+  color: cornflowerblue;
 }
 #foldtable1:hover{
   cursor: pointer;
+  color: green;
 }
 #foldtable2{
-  font-size:10px;
-  color: blue;
+  font-size:16px;
+  margin-top: 10px;
+  color: cornflowerblue;
 }
 #foldtable2:hover{
   cursor: pointer;
+  color: green;
 }
 #foldtable3{
-  font-size:10px;
-  color: blue;
+  font-size:16px;
+  margin-top: 10px;
+  color: cornflowerblue;
 }
 #foldtable3:hover{
   cursor: pointer;
+  color: green;
 }
 #foldtable4{
-  font-size:10px;
-  color: blue;
+  font-size:16px;
+  margin-top: 10px;
+  color: cornflowerblue;
 }
 #foldtable4:hover{
   cursor: pointer;
+  color: green;
 }
 .foldbtn{
-  width:100px;
-  margin-left:45.5%;
+  width:150px;
+  margin-left:43.5%;
+}
+.hidetable td a{
+  margin-right: 6%;
+  text-decoration: underline;
+}
+.hidetable1 td a{
+  margin-right: 6%;
+  text-decoration: underline;
+}
+.hidetable2 td a{
+  margin-right: 6%;
+  text-decoration: underline;
+}
+.hidetable3 td a{
+  margin-right: 6%;
+  text-decoration: underline;
+}
+.hidetable4 td a{
+  margin-right: 6%;
+  text-decoration: underline;
 }
